@@ -55,7 +55,7 @@ function Facebook() {
 }
 function Discord() {
   setTimeout(function() {
-    window.open('https://chonvotri.github.io/27th5/', 'ultimate')},
+    window.open('https://discord.com/channels/@me/1223843001269223535', 'ultimate')},
   100);
 }
 function Telegram() {
